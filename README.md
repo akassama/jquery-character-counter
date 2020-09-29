@@ -1,6 +1,6 @@
 # jquery-character-counter
 A simple and useful jquery plugin that allows you to create a Text Area Character Count Effect with limited warning.
-#[Demo](https://akassama.github.io/query-character-counter)
+#[Demo](https://akassama.github.io/jquery-character-counter/)
 
 ### Usage
 - Include the javascript inside the head section after the jQuery script and bootstrap. <br/> NB: Counter still works without bootstrap.
