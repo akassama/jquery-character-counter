@@ -23,9 +23,9 @@
 					if (charInputLength >= maxChars) {
 						//limit chars to max set
 						$("#"+inputId).val(charInput.substring(0, maxChars));
-						remainingMessage = "0 charater remaining";
+						remainingMessage = "0 characters remaining";
 					} else {
-						remainingMessage = (maxChars - charInputLength) + " charater(s) remaining";
+						remainingMessage = (maxChars - charInputLength) + " character(s) remaining";
 					}
 					
 					
